@@ -8,3 +8,5 @@ Personal Agenda written in Java. Using BufferReader/Writer for storing the data 
 *UTIL (for data structures)
 
 *JAVAX.SWING (for GUI)
+
+*IO (for data storage)
